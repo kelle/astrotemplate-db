@@ -1,11 +1,14 @@
-from schema import *
-
-REFERENCE_TABLES = [
-    "Publications",
-    "Telescopes",
-    "Instruments",
-    "Modes",
-    "PhotometryFilters",
-    "Versions",
-    "Parameters",
-]
+# Not currently used
+# REFERENCE_TABLES = [
+#     "Publications",
+#     "Telescopes",
+#     "Instruments",
+#     "PhotometryFilters",
+#     "Versions",
+#     "Parameters",
+#     "ParameterList",
+#     "RegimeList",
+#     "CompanionList",
+#     "SourceTypeList",
+#     "AssociationList",
+# ]

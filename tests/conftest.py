@@ -3,14 +3,14 @@ import pytest
 
 from astrodbkit.astrodb import Database, create_database
 
-
+# TODO - Figure out how to import REFERENCE_TABLES from schema
 REFERENCE_TABLES = [
     "Publications",
     "Telescopes",
     "Instruments",
     "PhotometryFilters",
     "Versions",
-    "Regimes",
+    "RegimeList",
     "AssociationList",
     "SourceTypeList",
     "ParameterList",
